@@ -10,7 +10,8 @@
   * Data Analysis (Python Pandas)
   
 - 💞️ I’m looking to collaborate on:
-  * Some interesting audio plugins implementation in JUCE C++
+  * Some interesting audio plugins implementation in JUCE C++,
+  * Any data-related projects <3
   
 - 📫 How to reach me: milosz.busko.pl@gmail.com
 
